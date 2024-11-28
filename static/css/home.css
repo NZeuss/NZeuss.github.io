@@ -1,5 +1,5 @@
 body {
-    color: white;
+    color: rgb(56, 56, 56);
 }
 
 ul {
@@ -10,7 +10,12 @@ ul {
   }
 
 li {
+    display: inline;
+}
+
+li a {
     color: chartreuse;
+    text-decoration: none;
 }
 
 h1 {
