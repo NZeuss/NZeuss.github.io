@@ -1,3 +1,13 @@
 body {
-    background-color: black;
+    background-color: rgb(56, 56, 56);
+}
+
+h1 {
+    color: chartreuse;
+    font-family: sans-serif;
+}
+
+p {
+    color: chartreuse;
+    font-family: sans-serif;
 }
