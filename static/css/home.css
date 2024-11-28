@@ -3,21 +3,23 @@ body {
 }
 
 ul {
-    background-color: rgb(56, 56, 56);
-    list-style-type: none;
-    height: 75px;
+    list-style-type: none;    
     margin: 0;
     padding: 0;
-  }
-
-li {
-    display: inline;
-    padding-inline: 15px;
+    overflow: hidden;
+    background-color: rgb(56, 56, 56);
+    list-style-type: none;
 }
 
+li {    
+    float: left;
+}
+  
 li a {
-    font-size: 25px;
+    display: block;
     color: chartreuse;
+    text-align: center;
+    padding: 14px 16px;
     text-decoration: none;
 }
 
