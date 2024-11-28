@@ -13,10 +13,10 @@ ul {
 li {
     display: inline;
     padding-inline: 15px;
-    padding-top: 45%;
 }
 
 li a {
+    font-size: 25px;
     color: chartreuse;
     text-decoration: none;
 }
