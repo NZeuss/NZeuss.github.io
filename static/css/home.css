@@ -5,12 +5,14 @@ body {
 ul {
     background-color: rgb(56, 56, 56);
     list-style-type: none;
+    height: 30px;
     margin: 0;
     padding: 0;
   }
 
 li {
     display: inline;
+    padding-inline: 15px;
 }
 
 li a {
