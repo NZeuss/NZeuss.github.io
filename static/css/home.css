@@ -1,8 +1,17 @@
 body {
-    background-color: rgb(56, 56, 56);
+    color: white;
 }
 
+ul {
+    background-color: rgb(56, 56, 56);
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
 
+li {
+    color: chartreuse;
+}
 
 h1 {
     color: chartreuse;
