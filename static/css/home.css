@@ -25,7 +25,7 @@ li a {
 
 /* Change the link color to #111 (black) on hover */
 li a:hover {
-    background-color: #111;
+    background-color: rgb(98, 98, 98);
 }
 
 h1 {
@@ -35,4 +35,8 @@ h1 {
 p {
     color: chartreuse;
 }
+
+.active {
+    background-color:rgba(91, 127, 55, 0.329);
+  }
 
